@@ -28,7 +28,7 @@
 
 ## 𝑩𝒍𝒐𝒈
 
-![Blog](https://img.shields.io/badge/blog-%E8%99%9A%E5%B9%BB%E8%8B%A5%E8%B0%B7-blue?style=flat-square&logo=Webflow)
+[![Blog](https://img.shields.io/badge/blog-%E8%99%9A%E5%B9%BB%E8%8B%A5%E8%B0%B7-blue?style=flat-square&logo=Webflow)](http://bobostudio.top/)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
