@@ -3,17 +3,11 @@
 
 <a href="https://github.com/bobostudio"><img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" height="275" /></a>
 
-- 👋 Hi, I’m @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐 ![GitHub followers](https://img.shields.io/github/followers/bobostudio?style=social)
+- 👋 Hi, I’m @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐 ![GitHub followers](https://img.shields.io/github/followers/bobostudio?style=social) ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
 - 👀 I’m interested in 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅
 - 🌱 I’m currently learning 𝑹𝒖𝒔𝒕
 - 💞️ I’m looking to collaborate on 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕
 - 📫 Reach me for email 𝟏𝟓𝟗𝟏𝟗𝟖𝟓𝟒𝟔𝟑𝟗@𝟏𝟔𝟑.𝒄𝒐𝒎
-
-
-
-## 𝑽𝒊𝒔𝒊𝒕
-
-<a href="https://github.com/bobostudio"><p align="center"> Visit count<br> <img src="https://profile-counter.glitch.me/bobostudio/count.svg" /></a>
 
 
 ## 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚  𝗦𝘁𝗮𝗰𝗸
