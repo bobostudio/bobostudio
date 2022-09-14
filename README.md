@@ -3,7 +3,7 @@
 
 <a href="https://github.com/bobostudio"><img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" height="275" /></a>
 
-- 👋 Hi, I’m @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐
+- 👋 Hi, I’m @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐 ![GitHub followers](https://img.shields.io/github/followers/bobostudio?style=social)
 - 👀 I’m interested in 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅
 - 🌱 I’m currently learning 𝑹𝒖𝒔𝒕
 - 💞️ I’m looking to collaborate on 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕
