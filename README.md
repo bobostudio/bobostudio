@@ -1,28 +1,29 @@
-
 ## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
-<a href="https://github.com/bobostudio"><img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" height="275" /></a>
+[中文版](./README_CN.md)
 
-- 👋 Hi, I’m @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐 ![GitHub followers](https://img.shields.io/github/followers/bobostudio?style=social) ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
-- 👀 I’m interested in 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅
-- 🌱 I’m currently learning 𝑹𝒖𝒔𝒕
-- 💞️ I’m looking to collaborate on 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕
+- 👋 Hi, I'm @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐 ![GitHub followers](https://img.shields.io/github/followers/bobostudio?style=social) ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
+- 👀 I'm interested in **𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕** with **𝑨𝑰**
+- 🤖 **𝑨𝑰 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝑩𝒂𝒔𝒊𝒄𝒔**, **𝑨𝑰 𝑰𝒏𝒅𝒆𝒑𝒆𝒏𝒅𝒆𝒏𝒕 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**, **𝑨𝑰 𝑷𝒓𝒐𝒎𝒑𝒕𝒊𝒏𝒈**, **𝑨𝑰 𝑨𝒈𝒆𝒏𝒕𝒔**
+- 🛠️ Focus on developing **𝑨𝑰 𝒕𝒐𝒐𝒍𝒔** and **𝒘𝒐𝒓𝒌𝒇𝒍𝒐𝒘𝒔**, dedicated to empowering work and life, reducing costs and increasing efficiency  
+- 🤝 Focus on **𝑨𝑰 𝑨𝒈𝒆𝒏𝒕** development, committed to developing **𝑨𝑰 𝑨𝒈𝒆𝒏𝒕 𝒕𝒐𝒐𝒍𝒔** and **𝒘𝒐𝒓𝒌𝒇𝒍𝒐𝒘𝒔**
 - 📫 Reach me for email 𝟏𝟓𝟗𝟏𝟗𝟖𝟓𝟒𝟔𝟑𝟗@𝟏𝟔𝟑.𝒄𝒐𝒎
+
 
 
 ## 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚  𝗦𝘁𝗮𝗰𝗸
 
-![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
-![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=blue&color=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javaScript&logoColor=ffffff&labelColor=blue&color=blue)
-
-
+![macOS](https://img.shields.io/badge/操作系统-macOS-informational?style=flat-square&logo=apple&logoColor=white) ![Cursor](https://img.shields.io/badge/编辑器-Cursor-blue?style=flat-square&logo=cursor&logoColor=white) ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![Next](https://img.shields.io/badge/Next-blue?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwind-css&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-blue?style=flat-square&logo=ai&logoColor=white)
 
 ## 𝑩𝒍𝒐𝒈
 
-[![Blog](https://img.shields.io/badge/blog-%E8%99%9A%E5%B9%BB%E8%8B%A5%E8%B0%B7-blue?style=flat-square&logo=Webflow)](http://bobostudio.top/)
+coming soon...
+
+## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
+
+If you have any questions during **AI programming** development, feel free to message me on **wechat**：**aicreatortop** (Note: **AI Programming**). I'll add you to our **AI programming** discussion group where we can learn, share and communicate together.
+
+![WeChat QR Code](https://www.bobostudio.eu.org/images/wechat-qr.jpg)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
