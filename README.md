@@ -23,7 +23,9 @@ coming soon...
 
 If you have any questions during **AI programming** development, feel free to message me on **wechat**：**aicreatortop** (Note: **AI Programming**). I'll add you to our **AI programming** discussion group where we can learn, share and communicate together.
 
-![WeChat QR Code](https://www.bobostudio.eu.org/images/wechat-qr.jpg)
+<p align="center">
+<img alt="WeChat QR Code" src="https://www.bobostudio.eu.org/images/wechat-qr.jpg" width="240" height="300">
+</p>
 
 
 ## 𝗦𝘁𝗮𝘁𝘀

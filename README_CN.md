@@ -19,7 +19,9 @@
 
 如果你在 **AI 编程** 开发过程中有任何问题，欢迎通过 微信：**aicreatortop**（备注：**AI编程**）联系我。我会将你拉入我们的 **AI编程** 交流群，一起学习、分享和交流。
 
-![微信二维码](https://www.bobostudio.eu.org/images/wechat-qr.jpg)
+<p align="center">
+<img alt="WeChat QR Code" src="https://www.bobostudio.eu.org/images/wechat-qr.jpg" width="240" height="300">
+</p>
 
 ## 统计数据
 
