@@ -1,6 +1,6 @@
-## 关于我
+## About Me
 
-[中文版](./README.md)
+[Chinese Version](./README.md)
 
 - 👋 你好，我是 @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐 ![GitHub 关注者](https://img.shields.io/github/followers/bobostudio?style=social) ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
 - 👀 I'm interested in **𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕** with **𝑨𝑰**
