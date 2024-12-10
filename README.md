@@ -15,6 +15,7 @@
 
 ## 博客
 
+[xiaobott](https://xiaobott.netlify.app/)
 [aicreator](https://www.aicreator.top/)
 
 ## 联系方式
