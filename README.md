@@ -13,10 +13,10 @@
 
 ![macOS](https://img.shields.io/badge/操作系统-macOS-informational?style=flat-square&logo=apple&logoColor=white) ![Cursor](https://img.shields.io/badge/编辑器-Cursor-blue?style=flat-square&logo=cursor&logoColor=white) ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![Next](https://img.shields.io/badge/Next-blue?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwind-css&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-blue?style=flat-square&logo=ai&logoColor=white)
 
-## 博客
+## 网站
 
-[xiaobott](https://xiaobott.netlify.app/)
-[aicreator](https://www.aicreator.top/)
+- [xiaobott](https://xiaobott.netlify.app/)
+- [aicreator](https://www.aicreator.top/)
 
 ## 联系方式
 
