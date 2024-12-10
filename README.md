@@ -17,6 +17,7 @@
 
 - [xiaobott](https://xiaobott.netlify.app/)
 - [aicreator](https://www.aicreator.top/)
+- [cursor-china-docs](https://www.bobostudio.eu.org/)
 
 ## 联系方式
 
