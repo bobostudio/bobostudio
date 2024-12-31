@@ -1,4 +1,4 @@
-## 关于我
+## 👀 关于我
 
 [英语版](./README_EN.md)
 
@@ -9,17 +9,26 @@
 - 🤝 专注 **AI Agent** 开发，致力于开发 **AI Agent 工具** 和 **工作流**
 - 📫 联系邮箱：𝟏𝟓𝟗𝟏𝟗𝟖𝟓𝟒𝟔𝟑𝟗@𝟏𝟔𝟑.𝒄𝒐𝒎
 
-## 技术栈
+## 🔥 技术栈
 
 ![macOS](https://img.shields.io/badge/操作系统-macOS-informational?style=flat-square&logo=apple&logoColor=white) ![Cursor](https://img.shields.io/badge/编辑器-Cursor-blue?style=flat-square&logo=cursor&logoColor=white) ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![Next](https://img.shields.io/badge/Next-blue?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwind-css&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-blue?style=flat-square&logo=ai&logoColor=white)
 
-## 网站
+## 🌎 网站
 
-- [xiaobott](https://xiaobott.netlify.app/)
-- [aicreator](https://www.aicreator.top/)
-- [cursor-china-docs](https://www.bobostudio.eu.org/)
+> ### 小报童知识付费精选网站 [xiaobott](https://xiaobott.netlify.app/)
 
-## 统计数据
+> ### Cursor 中文网 [cursor-china-docs](https://www.bobostudio.eu.org/)
+
+
+## 🎉 已上架插件
+
+> ### 书签管理器 [BookmarkSite](https://chromewebstore.google.com/detail/bookmarksite/eogkgndkljbnkkkfohjbgcohgkaokipa?hl=zh-CN&utm_source=ext_sidebar)
+
+## ⏱️ 待上架插件
+
+> ### Obsidian 图床插件 [obsidian-imgur-plugin](https://github.com/bobostudio/obsidian-imgur-plugin)
+
+## 📊 统计数据
 
 <p align="left">
 <img alt="GitHub 统计数据" height='200' src="https://github-readme-stats.vercel.app/api?username=bobostudio&show_icons=true&include_all_commits=true&locale=cn">
