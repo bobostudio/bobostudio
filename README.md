@@ -23,10 +23,11 @@
 ## 🎉 已上架插件
 
 > ### 书签管理器 [BookmarkSite](https://chromewebstore.google.com/detail/bookmarksite/eogkgndkljbnkkkfohjbgcohgkaokipa?hl=zh-CN&utm_source=ext_sidebar)
+> ### Obsidian 图床插件 [obsidian-imgur-plugin](https://github.com/bobostudio/obsidian-imgur-plugin)
 
 ## ⏱️ 待上架插件
 
-> ### Obsidian 图床插件 [obsidian-imgur-plugin](https://github.com/bobostudio/obsidian-imgur-plugin)
+
 
 ## 📊 统计数据
 
