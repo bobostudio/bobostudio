@@ -22,6 +22,7 @@
 
 ## 🎉 已上架插件
 
+> ### uTools 插件 [声波宇宙](https://www.u-tools.cn/plugins/detail/%E5%A3%B0%E6%B3%A2%E5%AE%87%E5%AE%99/)
 > ### 书签管理器 [BookmarkSite](https://chromewebstore.google.com/detail/bookmarksite/eogkgndkljbnkkkfohjbgcohgkaokipa?hl=zh-CN&utm_source=ext_sidebar)
 > ### Obsidian 图床插件 [obsidian-imgur-plugin](https://github.com/bobostudio/obsidian-imgur-plugin)
 
