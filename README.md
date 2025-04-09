@@ -13,7 +13,7 @@
 ## 🌎 网站
 
 > ### Cursor 中文网 [cursor-china-docs](https://www.bobostudio.eu.org/)
-> ### 小报童知识付费精选网站 [xiaobott](https://xiaobott.netlify.app/)
+> ### 小报童专栏精选网站 [xiaobott](https://xiaobott.netlify.app/)
 
 
 ## 🎉 已上架插件
