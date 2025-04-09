@@ -1,6 +1,6 @@
-## 👀 关于我
+## 👀 关于我 ![GitHub 关注者](https://img.shields.io/github/followers/bobostudio?style=social) ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
 
-- 👋 你好，我是 @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐 ![GitHub 关注者](https://img.shields.io/github/followers/bobostudio?style=social) ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
+- 👋 你好，我是 **bobostudio**
 - 💻 软件开发者，专注AI应用领域
 - 🤖 AI 编程，MCP，Agent 开发
 - 🛠️ AI 赋能工作与生活，降本增效
