@@ -1,6 +1,5 @@
 ## 👀 关于我
 
-[英语版](./README_EN.md)
 
 - 👋 你好，我是 @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐 ![GitHub 关注者](https://img.shields.io/github/followers/bobostudio?style=social) ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
 - 👀 软件开发者，专注AI应用领域
