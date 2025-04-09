@@ -1,8 +1,7 @@
 ## 👀 关于我
 
-
 - 👋 你好，我是 @𝒃𝒐𝒃𝒐𝒔𝒕𝒖𝒅𝒊𝒐 ![GitHub 关注者](https://img.shields.io/github/followers/bobostudio?style=social) ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
-- 👀 软件开发者，专注AI应用领域
+- 💻 软件开发者，专注AI应用领域
 - 🤖 AI 编程，MCP，Agent 开发
 - 🛠️ AI 赋能工作与生活，降本增效
 - 📫 联系邮箱：𝟏𝟓𝟗𝟏𝟗𝟖𝟓𝟒𝟔𝟑𝟗@𝟏𝟔𝟑.𝒄𝒐𝒎
@@ -13,16 +12,16 @@
 
 ## 🌎 网站
 
-> ### 小报童知识付费精选网站 [xiaobott](https://xiaobott.netlify.app/)
-
 > ### Cursor 中文网 [cursor-china-docs](https://www.bobostudio.eu.org/)
+> ### 小报童知识付费精选网站 [xiaobott](https://xiaobott.netlify.app/)
 
 
 ## 🎉 已上架插件
 
+> ### Obsidian 图床插件 [obsidian-imgur-plugin](https://github.com/bobostudio/obsidian-imgur-plugin)
 > ### uTools 插件 [声波宇宙](https://www.u-tools.cn/plugins/detail/%E5%A3%B0%E6%B3%A2%E5%AE%87%E5%AE%99/)
 > ### 书签管理器 [BookmarkSite](https://chromewebstore.google.com/detail/bookmarksite/eogkgndkljbnkkkfohjbgcohgkaokipa?hl=zh-CN&utm_source=ext_sidebar)
-> ### Obsidian 图床插件 [obsidian-imgur-plugin](https://github.com/bobostudio/obsidian-imgur-plugin)
+
 
 ## ⏱️ 待上架插件
 
