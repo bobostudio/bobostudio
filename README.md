@@ -1,25 +1,25 @@
-## 👀 关于我 ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
+## 👀 About Me ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
 
 - 👋 你好，我是 **bobostudio**
-- 💻 软件开发者，专注 AI 应用领域
-- 🤖 AI Coding，MCP，Agent 开发
+- 💻 软件开发者，专注应用领域
+- 🤖 AI，MCP，Agent 开发
 - 📫 联系邮箱：m18576493832@163.com
 
-## 🔥 技术栈
+## 🔨 Technology Stack
 
-![macOS](https://img.shields.io/badge/操作系统-macOS-informational?style=flat-square&logo=apple&logoColor=white) ![Cursor](https://img.shields.io/badge/编辑器-Cursor-blue?style=flat-square&logo=cursor&logoColor=white) ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![Next](https://img.shields.io/badge/Next-blue?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwind-css&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-blue?style=flat-square&logo=ai&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,tailwind,nestjs,golang,vscode,ubuntu,docker,prisma,postgres,redis,supabase,)](https://skillicons.dev)
 
+## 💡 Production
 
-## 🎉 作品
+> ###  [obsidian-imgur-plugin(Obsidian 图床插件)](https://github.com/bobostudio/obsidian-imgur-plugin)
+> ###  [声波宇宙(uTools 插件)](https://www.u-tools.cn/plugins/detail/%E5%A3%B0%E6%B3%A2%E5%AE%87%E5%AE%99/)
+> ###  [BookmarkSite(书签浏览器插件)](https://chromewebstore.google.com/detail/bookmarksite/eogkgndkljbnkkkfohjbgcohgkaokipa?hl=zh-CN&utm_source=ext_sidebar)
 
-> ### Obsidian 图床插件 [obsidian-imgur-plugin](https://github.com/bobostudio/obsidian-imgur-plugin)
-> ### uTools 插件 [声波宇宙](https://www.u-tools.cn/plugins/detail/%E5%A3%B0%E6%B3%A2%E5%AE%87%E5%AE%99/)
-> ### 书签管理器 [BookmarkSite](https://chromewebstore.google.com/detail/bookmarksite/eogkgndkljbnkkkfohjbgcohgkaokipa?hl=zh-CN&utm_source=ext_sidebar)
+<br/>
 
+## 📊 Statistical Data
 
-
-## 📊 统计数据
-
-<p align="left">
-<img alt="GitHub 统计数据" height='200' src="https://github-readme-stats.vercel.app/api?username=bobostudio&show_icons=true&include_all_commits=true&locale=cn">
-</p> 
+![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/languages.svg#gh-light-mode-only)
