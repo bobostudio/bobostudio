@@ -1,4 +1,4 @@
-## 👀 关于我 ![GitHub 关注者](https://img.shields.io/github/followers/bobostudio?style=social) ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
+## 👀 关于我 ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
 
 - 👋 你好，我是 **bobostudio**
 - 💻 软件开发者，专注 AI 应用领域
