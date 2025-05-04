@@ -1,22 +1,15 @@
 ## 👀 About Me ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
-
 - 👋 你好，我是 **bobostudio**
 - 💻 软件开发者，专注应用领域
 - 🤖 AI，MCP，Agent 开发
 - 📫 联系邮箱：m18576493832@163.com
 
 ## 🔨 Technology Stack
-
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,tailwind,nestjs,golang,vscode,ubuntu,docker,prisma,postgres,redis,supabase,)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,tailwind,nestjs,golang,vscode,ubuntu,docker,prisma,postgres,redis,supabase)](https://skillicons.dev)
 ## 💡 Production
-
 > ###  [obsidian-imgur-plugin(Obsidian 图床插件)](https://github.com/bobostudio/obsidian-imgur-plugin)
 > ###  [声波宇宙(uTools 插件)](https://www.u-tools.cn/plugins/detail/%E5%A3%B0%E6%B3%A2%E5%AE%87%E5%AE%99/)
 > ###  [BookmarkSite(书签浏览器插件)](https://chromewebstore.google.com/detail/bookmarksite/eogkgndkljbnkkkfohjbgcohgkaokipa?hl=zh-CN&utm_source=ext_sidebar)
-
-<br/>
-
 ## 📊 Statistical Data
 
 ![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/overview.svg#gh-dark-mode-only)
