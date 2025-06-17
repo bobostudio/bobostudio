@@ -1,5 +1,5 @@
 ## 👀 About Me ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
-- 👋 你好，我是 **bobostudio**
+- 👋 你好，我是 **波罗密**
 - 💻 软件开发者，专注应用领域
 - 🤖 AI，MCP，Agent 开发
 - 📫 联系邮箱：m18576493832@163.com
