@@ -10,6 +10,7 @@
 > ###  [obsidian-imgur-plugin(Obsidian 图床插件)](https://github.com/bobostudio/obsidian-imgur-plugin)
 > ###  [声波宇宙(uTools 插件)](https://www.u-tools.cn/plugins/detail/%E5%A3%B0%E6%B3%A2%E5%AE%87%E5%AE%99/)
 > ###  [BookmarkSite(书签浏览器插件)](https://chromewebstore.google.com/detail/bookmarksite/eogkgndkljbnkkkfohjbgcohgkaokipa?hl=zh-CN&utm_source=ext_sidebar)
+> ###  [小报童精选优质AI课程](https://xiaobott.netlify.app/)
 ## 📊 Statistical Data
 
 ![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/overview.svg#gh-dark-mode-only)
