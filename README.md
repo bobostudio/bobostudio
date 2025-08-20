@@ -19,7 +19,4 @@
 
 ## 📊 Statistical Data
 
-![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bobostudio/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<img src="https://github-readme-stats.vercel.app/api?username=bobostudio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="bobostudio's GitHub Stats" />
