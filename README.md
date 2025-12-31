@@ -1,8 +1,8 @@
 ## 👀 About Me ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
-- 👋 你好，我是 **bobostudio**
-- 💻 软件开发者，专注应用领域
-- 🤖 AI，MCP，Agent 开发
-- 📫 联系邮箱：m18576493832@163.com
+- 👨‍💻 软件开发者
+- 🤖 专注 AI Agent 和 AI 自动化
+- 🧐 分享 AI 实用技巧
+- 💬 aicreatortop（说明来意）
 
 ## 🔨 Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,tailwind,nestjs,golang,vscode,ubuntu,docker,prisma,postgres,redis,supabase)](https://skillicons.dev)
