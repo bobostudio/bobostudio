@@ -1,11 +1,10 @@
 ## 👀 About Me ![](https://komarev.com/ghpvc/?username=bobostudio&label=visitors)
-- 👨‍💻 软件开发者
-- 🤖 专注 AI Agent 和 AI 自动化
-- 🧐 分享 AI 实用技巧
-- 💬 aicreatortop（说明来意）
+- 👨‍💻 AI 应用研发中｜全栈开发者
+- 🤖 专注 AI Agent ｜AI 提效工具
+- 💬 aicreatortop（学习交流）
 
 ## 🔨 Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,tailwind,nestjs,golang,vscode,ubuntu,docker,prisma,postgres,redis,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,obsidian,nodejs,bun,pnpm,react,flutter,vite,tailwind,python,apple,git,vscode,linux,ubuntu,docker,nginx,sqlite,supabase,cloudflare)](https://skillicons.dev)
 ## 💡 Projects
 | Name | 
 |---|
@@ -17,7 +16,3 @@
 
 
 <img src="https://github-readme-stats-kappa-eight-37.vercel.app/api?username=bobostudio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="bobostudio's GitHub Stats" />
-
-
-
-
