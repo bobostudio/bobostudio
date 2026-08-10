@@ -9,6 +9,7 @@
 | Name | 
 |---|
 | [声波宇宙 (uTools 插件)](https://www.u-tools.cn/plugins/detail/%E5%A3%B0%E6%B3%A2%E5%AE%87%E5%AE%99/) |
+|[简易录屏 (uTools 插件)](https://www.u-tools.cn/plugins/detail/%E7%AE%80%E6%98%93%E5%BD%95%E5%B1%8F/)|
 <!--| [AI编程学习网站](https://www.aicreator.top/) | | [小报童精选优质AI课程](https://xiaobott.netlify.app/) |
 | [卡片笔记制作工具](https://rednotecard.netlify.app/) |  -->
 
